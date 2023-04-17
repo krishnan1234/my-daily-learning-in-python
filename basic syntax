@@ -1,3 +1,8 @@
-# we can execute in two ways
-# 1. Interactive mode programming
-#We can invoke a Python interpreter from command line by typing python at the command prompt as following −
+we can execute in two ways:
+1. Interactive mode programming
+ans: Interactive mode is where you type commands and they are immediately executed. 
+Script mode is where you put a bunch of commands into a file (a script), and then tell Python to run the file.
+
+2.Python - Script Mode Programming
+ans: Script mode is where you write your code in a . py file and then run it with the python command.
+This is the most common way that people use Python because it lets you write and save your code so that you can use it again later.
